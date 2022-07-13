@@ -1,0 +1,67 @@
+---
+voprosy:
+- id: "876f511a-608c-4408-83a6-0080fdd04edd"
+  theme: "theme1"
+  formulirovka: "formulirovkaVoprosa"
+  count: 4
+  otvety:
+  - formulirovkaOtvet: "otvet1"
+    status: false
+  - formulirovkaOtvet: "otvet2"
+    status: true
+  - formulirovkaOtvet: "otvet3"
+    status: false
+  - formulirovkaOtvet: "otvet4"
+    status: false
+- id: "bb506566-43cc-48bf-92c3-bc811c87bc22"
+  theme: "theme2"
+  formulirovka: "formulirovkaVoprosa"
+  count: 4
+  otvety:
+  - formulirovkaOtvet: "otvet1"
+    status: false
+  - formulirovkaOtvet: "otvet2"
+    status: true
+  - formulirovkaOtvet: "otvet3"
+    status: false
+  - formulirovkaOtvet: "otvet4"
+    status: false
+- id: "f0f21f4f-16ad-416e-9e76-76195c1ef28b"
+  theme: "theme2"
+  formulirovka: "formulirovkaVoprosa"
+  count: 4
+  otvety:
+  - formulirovkaOtvet: "otvet1"
+    status: false
+  - formulirovkaOtvet: "otvet2"
+    status: true
+  - formulirovkaOtvet: "otvet3"
+    status: false
+  - formulirovkaOtvet: "otvet4"
+    status: false
+- id: "c1214411-9e73-4e25-a1e2-9007d0c78008"
+  theme: "theme2"
+  formulirovka: "formulirovkaVoprosa"
+  count: 4
+  otvety:
+  - formulirovkaOtvet: "otvet1"
+    status: false
+  - formulirovkaOtvet: "otvet2"
+    status: true
+  - formulirovkaOtvet: "otvet3"
+    status: false
+  - formulirovkaOtvet: "otvet4"
+    status: false
+- id: "134e631d-326f-4380-a45b-0f37609733e2"
+  theme: "theme2"
+  formulirovka: "formulirovkaVoprosa"
+  count: 4
+  otvety:
+  - formulirovkaOtvet: "otvet1"
+    status: false
+  - formulirovkaOtvet: "otvet2"
+    status: true
+  - formulirovkaOtvet: "otvet3"
+    status: false
+  - formulirovkaOtvet: "otvet4"
+    status: false
